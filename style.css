@@ -1,0 +1,49 @@
+#sale{
+    color: red;
+}
+.navbar{
+    width: 50%;
+    height: 50px;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.logo{
+    float:left;
+    padding: 12px;
+}
+.navbar-item{
+    align-items: center;
+    padding-top: 0px;
+}
+
+.navbar-item li{
+    display: inline;
+}
+.dropdown-menu:hover{
+    text-decoration: underline;
+
+}
+.detail{
+    float: right;
+    padding:0px;
+}
+.menu{
+    color: black;
+    padding-right: 10;
+}
+.menu:hover{
+    text-decoration: underline;
+    color: slateblue;
+}
+.backgroung{
+    width: 50%;
+    height: 30px;
+}
+.main{
+    /* position: fixed; */
+}
+.search{
+    text-align: center;
+}
+
